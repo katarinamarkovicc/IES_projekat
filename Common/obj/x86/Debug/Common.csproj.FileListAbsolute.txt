@@ -1,0 +1,27 @@
+D:\Vezbe\11\ModelLabs\bin\FTN.Common.dll
+D:\Vezbe\11\ModelLabs\bin\FTN.Common.pdb
+D:\Vezbe\11\ModelLabs\Common\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+D:\Vezbe\11\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\FTN.Common.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Common.dll
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
+C:\Users\katar\OneDrive\Radna površina\Projekat_IES\ModelLabsProjekat\ModelLabs\bin\FTN.Common.dll
+C:\Users\katar\OneDrive\Radna površina\Projekat_IES\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb
+C:\Users\katar\OneDrive\Radna površina\Projekat_IES\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\katar\OneDrive\Radna površina\Projekat_IES\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+C:\Users\katar\OneDrive\Radna površina\Projekat_IES\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
+C:\Users\katar\OneDrive\Radna površina\Projekat_IES\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.AssemblyReference.cache
+F:\4. godina\1. semestar\IES\Projekat_IES\ModelLabsProjekat\ModelLabs\bin\FTN.Common.dll
+F:\4. godina\1. semestar\IES\Projekat_IES\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb
+F:\4. godina\1. semestar\IES\Projekat_IES\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.AssemblyReference.cache
+F:\4. godina\1. semestar\IES\Projekat_IES\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.CoreCompileInputs.cache
+F:\4. godina\1. semestar\IES\Projekat_IES\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+F:\4. godina\1. semestar\IES\Projekat_IES\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
