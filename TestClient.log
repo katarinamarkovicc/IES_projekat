@@ -1,0 +1,104 @@
+2/14/2022 2:35:50 PM : Network Model Service Test Client is up and running...
+2/14/2022 2:35:50 PM : Result directory: ../Results
+2/15/2022 2:04:04 PM : Network Model Service Test Client is up and running...
+2/15/2022 2:04:04 PM : Result directory: ../Results
+2/15/2022 2:07:51 PM : Getting values method started.
+2/15/2022 2:07:51 PM : Failed to get model type code for DMS type: 4096. Invalid DMS type
+2/15/2022 2:07:51 PM : Getting values method for entered id = 1373896953510952960 failed.
+	Failed to get model type code for DMS type: 4096. Invalid DMS type
+2/15/2022 2:08:25 PM : Getting values method started.
+2/15/2022 2:08:25 PM : Failed to get model type code for DMS type: 0. Invalid DMS type
+2/15/2022 2:08:25 PM : Getting values method for entered id = 3 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+2/15/2022 2:09:20 PM : Network Model Service Test Client is up and running...
+2/15/2022 2:09:20 PM : Result directory: ../Results
+2/15/2022 2:11:03 PM : Entering entity id failed. Please use hex (0x) or decimal format.
+2/15/2022 2:11:03 PM : GetValues failed. Input string was not in a correct format.
+2/15/2022 2:11:28 PM : Getting values method started.
+2/15/2022 2:11:28 PM : Getting values method successfully finished.
+2/15/2022 2:15:45 PM : Getting extent values method started.
+2/15/2022 2:15:46 PM : Getting extent values method successfully finished.
+2/15/2022 2:26:06 PM : Getting related values method started.
+2/15/2022 2:26:06 PM : Getting related values method successfully finished.
+2/16/2022 6:41:01 PM : Network Model Service Test Client is up and running...
+2/16/2022 6:41:01 PM : Result directory: ../Results
+2/16/2022 6:41:17 PM : Getting values method started.
+2/16/2022 6:41:18 PM : Getting values method successfully finished.
+2/16/2022 6:41:32 PM : Getting values method started.
+2/16/2022 6:41:32 PM : Failed to get model type code for DMS type: 0. Invalid DMS type
+2/16/2022 6:41:32 PM : Getting values method for entered id = 67108865 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+2/16/2022 6:42:08 PM : Getting values method started.
+2/16/2022 6:42:08 PM : Failed to get model type code for DMS type: 0. Invalid DMS type
+2/16/2022 6:42:08 PM : Getting values method for entered id = 67108865 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+2/16/2022 6:47:47 PM : Network Model Service Test Client is up and running...
+2/16/2022 6:47:47 PM : Result directory: ../Results
+2/16/2022 6:48:36 PM : Getting values method started.
+2/16/2022 6:48:36 PM : Getting values method successfully finished.
+2/16/2022 6:52:18 PM : Getting extent values method started.
+2/16/2022 6:52:19 PM : Getting extent values method successfully finished.
+2/16/2022 6:55:47 PM : Getting related values method started.
+2/16/2022 6:55:47 PM : Getting related values method successfully finished.
+2/16/2022 6:56:47 PM : Apply update method started.
+2/16/2022 6:56:47 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000006
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x000000020000000f
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x000000030000000f
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x000000040000000b
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x000000050000000d
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x000000060000000d
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x000000070000000f
+
+2/16/2022 9:21:48 PM : Network Model Service Test Client is up and running...
+2/16/2022 9:21:48 PM : Result directory: ../Results
+2/16/2022 9:24:46 PM : Getting values method started.
+2/16/2022 9:24:46 PM : Getting values method successfully finished.
+2/16/2022 10:47:59 PM : Network Model Service Test Client is up and running...
+2/16/2022 10:47:59 PM : Result directory: ../Results
+2/16/2022 10:48:18 PM : Getting values method started.
+2/16/2022 10:48:18 PM : Getting values method successfully finished.
+2/16/2022 10:49:23 PM : Getting extent values method started.
+2/16/2022 10:49:23 PM : Getting extent values method successfully finished.
+2/16/2022 10:49:57 PM : Getting extent values method started.
+2/16/2022 10:49:57 PM : Getting extent values method successfully finished.
+2/16/2022 10:51:08 PM : Getting related values method started.
+2/16/2022 10:52:00 PM : Network Model Service Test Client is up and running...
+2/16/2022 10:52:00 PM : Result directory: ../Results
+2/16/2022 10:52:30 PM : Getting related values method started.
+2/16/2022 10:53:56 PM : Network Model Service Test Client is up and running...
+2/16/2022 10:53:56 PM : Result directory: ../Results
+2/16/2022 10:54:40 PM : Getting values method started.
+2/16/2022 10:54:40 PM : Getting values method successfully finished.
+2/16/2022 10:55:09 PM : Getting extent values method started.
+2/16/2022 10:55:09 PM : Getting extent values method successfully finished.
+2/16/2022 10:56:45 PM : Getting related values method started.
+2/16/2022 10:56:45 PM : Getting related values method successfully finished.
+2/17/2022 9:49:30 AM : Network Model Service Test Client is up and running...
+2/17/2022 9:49:30 AM : Result directory: ../Results
+2/17/2022 9:50:20 AM : Getting values method started.
+2/17/2022 9:50:20 AM : Getting values method successfully finished.
+2/17/2022 9:51:05 AM : Getting extent values method started.
+2/17/2022 9:51:05 AM : Getting extent values method successfully finished.
+2/17/2022 9:52:30 AM : Entering association failed. System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Int64.Parse(String s)
+   at FTN.Services.NetworkModelService.TestClient.Program.InputAssociation() in C:\Users\katar\OneDrive\Radna površina\Projekat_IES\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\Program.cs:line 235
+2/17/2022 9:52:30 AM : GetRelatedValues failed. Input string was not in a correct format.
+2/17/2022 9:53:12 AM : Getting related values method started.
+2/17/2022 9:53:12 AM : Getting related values method  failed for sourceGlobalId = 100000001 and association (propertyId = 1, type = 1). Reason: There was an error while trying to serialize parameter http://tempuri.org/:association. The InnerException message was 'Enum value '1' is invalid for type 'FTN.Common.ModelCode' and cannot be serialized. Ensure that the necessary enum values are present and are marked with EnumMemberAttribute attribute if the type has DataContractAttribute attribute.'.  Please see InnerException for more details.
+2/17/2022 9:53:42 AM : Getting related values method started.
+2/17/2022 9:54:40 AM : Network Model Service Test Client is up and running...
+2/17/2022 9:54:40 AM : Result directory: ../Results
+2/17/2022 9:55:26 AM : Getting related values method started.
+2/17/2022 9:55:54 AM : Network Model Service Test Client is up and running...
+2/17/2022 9:55:54 AM : Result directory: ../Results
+2/17/2022 9:57:07 AM : Getting related values method started.
+2/17/2022 9:57:41 AM : Network Model Service Test Client is up and running...
+2/17/2022 9:57:41 AM : Result directory: ../Results
+2/17/2022 9:58:06 AM : Getting related values method started.
+2/17/2022 9:58:06 AM : Getting related values method successfully finished.

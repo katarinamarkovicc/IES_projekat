@@ -1,0 +1,141 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="13">
+        <ResourceDescription>
+          <id gid="0x00000003ffffffff" type="SWITCH" />
+          <Properties>
+            <Property id="SWICTH_NORMALOPEN" value="1" />
+            <Property id="SWICTH_RATEDCURRENT" value="15" />
+            <Property id="SWITCH_SWITCHONCOUNT" value="7" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffe" type="SWITCH" />
+          <Properties>
+            <Property id="SWICTH_NORMALOPEN" value="0" />
+            <Property id="SWICTH_RATEDCURRENT" value="25" />
+            <Property id="SWITCH_SWITCHONCOUNT" value="8" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000007ffffffff" type="REGULATINGCONTROL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="acab" />
+            <Property id="IDOBJ_NAME" value="acab" />
+            <Property id="IDOBJ_ALIAS" value="acab" />
+            <Property id="REGULATINGCONTROL_DISCRETE" value="1" />
+            <Property id="REGULATINGCONTROL_MODE" value="activePower" />
+            <Property id="REGULATINGCONTROL_MONITOREDPHASE" value="Unknown" />
+            <Property id="REGULATINGCONTROL_TARGETRANGE" value="55" />
+            <Property id="REGULATINGCONTROL_TARGETVALUE" value="65" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000007fffffffe" type="REGULATINGCONTROL" />
+          <Properties>
+            <Property id="REGULATINGCONTROL_DISCRETE" value="0" />
+            <Property id="REGULATINGCONTROL_MODE" value="activePower" />
+            <Property id="REGULATINGCONTROL_MONITOREDPHASE" value="N" />
+            <Property id="REGULATINGCONTROL_TARGETRANGE" value="55" />
+            <Property id="REGULATINGCONTROL_TARGETVALUE" value="65" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="DAYTYPE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="legenda" />
+            <Property id="IDOBJ_NAME" value="legenda" />
+            <Property id="IDOBJ_ALIAS" value="legenda" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffe" type="DAYTYPE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="legenda" />
+            <Property id="IDOBJ_NAME" value="legenda" />
+            <Property id="IDOBJ_ALIAS" value="legenda" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006ffffffff" type="REGULATIONSCHEDULE" />
+          <Properties>
+            <Property id="BASICINTERVALSCHEDULE_VALUE1MULTIPLIER" value="c" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE1UNIT" value="S" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE2MULTIPLIER" value="0" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE2UNIT" value="N" />
+            <Property id="SEASONDAYTYPESCHEDULE_DAYTYPE" value="0x00000002ffffffff" />
+            <Property id="REGULATIONSCHEDULE_REGULATINGCONTROL" value="0x00000007ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006fffffffe" type="REGULATIONSCHEDULE" />
+          <Properties>
+            <Property id="BASICINTERVALSCHEDULE_VALUE1MULTIPLIER" value="c" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE1UNIT" value="S" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE2MULTIPLIER" value="0" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE2UNIT" value="N" />
+            <Property id="SEASONDAYTYPESCHEDULE_DAYTYPE" value="0x00000002ffffffff" />
+            <Property id="REGULATIONSCHEDULE_REGULATINGCONTROL" value="0x00000007ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="TAPCHANGER" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="legenda" />
+            <Property id="IDOBJ_NAME" value="legenda" />
+            <Property id="IDOBJ_ALIAS" value="legenda" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffe" type="TAPCHANGER" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="legenda" />
+            <Property id="IDOBJ_NAME" value="legenda" />
+            <Property id="IDOBJ_ALIAS" value="legenda" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="TAPSCHEDULE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="legenda" />
+            <Property id="IDOBJ_NAME" value="legenda" />
+            <Property id="IDOBJ_ALIAS" value="legenda" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE1MULTIPLIER" value="M" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE1UNIT" value="0" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE2MULTIPLIER" value="M" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE2UNIT" value="0" />
+            <Property id="SEASONDAYTYPESCHEDULE_DAYTYPE" value="0x00000002ffffffff" />
+            <Property id="TAPSCHEDULE_TAPCHANGER" value="0x00000005ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffe" type="TAPSCHEDULE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="legenda" />
+            <Property id="IDOBJ_NAME" value="legenda" />
+            <Property id="IDOBJ_ALIAS" value="legenda" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE1MULTIPLIER" value="M" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE1UNIT" value="0" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE2MULTIPLIER" value="M" />
+            <Property id="BASICINTERVALSCHEDULE_VALUE2UNIT" value="0" />
+            <Property id="SEASONDAYTYPESCHEDULE_DAYTYPE" value="0x00000002ffffffff" />
+            <Property id="TAPSCHEDULE_TAPCHANGER" value="0x00000005ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="REGULARTIMEPOINT" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="legenda" />
+            <Property id="IDOBJ_NAME" value="legenda" />
+            <Property id="IDOBJ_ALIAS" value="legenda" />
+            <Property id="REGULARTIMEPOINT_SEQUENCENUMBER" value="8" />
+            <Property id="REGULARTIMEPOINT_VALUE1" value="15" />
+            <Property id="REGULARTIMEPOINT_VALUE2" value="16" />
+            <Property id="REGULARTIMEPOINT_INTERVALSCHEDULE" value="0x00000004ffffffff" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>
