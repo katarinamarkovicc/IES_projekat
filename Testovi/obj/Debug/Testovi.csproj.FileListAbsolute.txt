@@ -97,8 +97,8 @@ D:\resProjekatBiznis-master\resProjekatBiznis-master\Testovi\bin\Debug\ExcelData
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Testovi\bin\Debug\ExcelDataReader.xml
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Testovi\bin\Debug\ExcelDataReader.DataSet.pdb
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Testovi\bin\Debug\ExcelDataReader.DataSet.xml
-D:\resProjekatBiznis-master\resProjekatBiznis-master\Testovi\obj\Debug\Testovi.csprojAssemblyReference.cache
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Testovi\obj\Debug\Testovi.csproj.CoreCompileInputs.cache
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Testovi\obj\Debug\Testovi.csproj.CopyComplete
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Testovi\obj\Debug\Testovi.dll
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Testovi\obj\Debug\Testovi.pdb
+D:\resProjekatBiznis-master\resProjekatBiznis-master\Testovi\obj\Debug\Testovi.csproj.AssemblyReference.cache

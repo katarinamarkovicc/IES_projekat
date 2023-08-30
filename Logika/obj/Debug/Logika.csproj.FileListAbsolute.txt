@@ -45,8 +45,34 @@ D:\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\ExcelDataR
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\ExcelDataReader.xml
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\ExcelDataReader.DataSet.pdb
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\ExcelDataReader.DataSet.xml
-D:\resProjekatBiznis-master\resProjekatBiznis-master\Logika\obj\Debug\Logika.csprojAssemblyReference.cache
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Logika\obj\Debug\Logika.csproj.CoreCompileInputs.cache
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Logika\obj\Debug\Logika.csproj.CopyComplete
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Logika\obj\Debug\Logika.dll
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Logika\obj\Debug\Logika.pdb
+D:\resProjekatBiznis-master\resProjekatBiznis-master\Logika\obj\Debug\Logika.csproj.AssemblyReference.cache
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\Logika.dll.config
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\Logika.dll
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\Logika.pdb
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\BazaPodataka.dll
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\EntityFramework.dll
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\EntityFramework.SqlServer.dll
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\EntityFrameworkExtension.dll
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\ExcelDataReader.DataSet.dll
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\ExcelDataReader.dll
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\Modeli.dll
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\System.Data.Entity.dll
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\BazaPodataka.pdb
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\BazaPodataka.dll.config
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\Modeli.pdb
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\Modeli.dll.config
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\EntityFramework.xml
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\EntityFramework.SqlServer.xml
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\ExcelDataReader.pdb
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\ExcelDataReader.xml
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\ExcelDataReader.DataSet.pdb
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\bin\Debug\ExcelDataReader.DataSet.xml
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\obj\Debug\Logika.csproj.AssemblyReference.cache
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\obj\Debug\Logika.csproj.CoreCompileInputs.cache
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\obj\Debug\Logika.csproj.CopyComplete
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\obj\Debug\Logika.dll
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Logika\obj\Debug\Logika.pdb

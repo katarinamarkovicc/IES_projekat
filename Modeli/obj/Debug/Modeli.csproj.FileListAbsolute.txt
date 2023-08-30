@@ -21,8 +21,22 @@ D:\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\bin\Debug\EntityFram
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\bin\Debug\System.Data.Entity.dll
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\bin\Debug\EntityFramework.xml
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\bin\Debug\EntityFramework.SqlServer.xml
-D:\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\obj\Debug\Modeli.csprojAssemblyReference.cache
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\obj\Debug\Modeli.csproj.CoreCompileInputs.cache
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\obj\Debug\Modeli.csproj.CopyComplete
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\obj\Debug\Modeli.dll
 D:\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\obj\Debug\Modeli.pdb
+D:\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\obj\Debug\Modeli.csproj.AssemblyReference.cache
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\bin\Debug\Modeli.dll.config
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\bin\Debug\Modeli.dll
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\bin\Debug\Modeli.pdb
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\bin\Debug\EntityFramework.dll
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\bin\Debug\EntityFramework.SqlServer.dll
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\bin\Debug\EntityFrameworkExtension.dll
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\bin\Debug\System.Data.Entity.dll
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\bin\Debug\EntityFramework.xml
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\bin\Debug\EntityFramework.SqlServer.xml
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\obj\Debug\Modeli.csproj.AssemblyReference.cache
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\obj\Debug\Modeli.csproj.CoreCompileInputs.cache
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\obj\Debug\Modeli.csproj.CopyComplete
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\obj\Debug\Modeli.dll
+F:\3. godina\drugi_semestar\res\resProjekatBiznis-master\resProjekatBiznis-master\Modeli\obj\Debug\Modeli.pdb
